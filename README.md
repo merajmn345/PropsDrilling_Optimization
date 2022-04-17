@@ -1,2 +1,2 @@
-# PropsDrilling_Optimization
+# Props.drilling
 Created with CodeSandbox
